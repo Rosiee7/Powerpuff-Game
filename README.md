@@ -1,3 +1,3 @@
 # PowerpuffGame
 
-<img src=""/>
+<img src="Home.png"/>
