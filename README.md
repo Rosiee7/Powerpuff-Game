@@ -6,7 +6,7 @@ But watch out for the little monsters that can blow you up.
 
 Instructions:
 1. Download and extract the folder
-2. Choose an operating system and Run the nw file
+2. Choose your operating system, and run the nw file
 3. enjoy!
 [Link To the Game](https://drive.google.com/file/d/1qiWWFXn87PFx5dOfmyi15fEIq60UPIhX/view?usp=share_link)
 
